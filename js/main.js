@@ -72,7 +72,7 @@ $(document).ready(function () {
                 }
             });
           },
-          attribution: 'temp'
+          attribution: 'Airports Data &copy; WSDOT | Base Map &copy; CartoDB | Made By Nicholas Verghese'
       });
 
 
