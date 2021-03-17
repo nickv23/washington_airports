@@ -22,7 +22,7 @@ $(document).ready(function () {
           onEachFeature: function (feature, layer) {
               layer.bindPopup(feature.properties.NAME);
           },
-          attribution: 'temp'
+          attribution: 'Airports Data &copy; WSDOT | Base Map &copy; CartoDB | Made By Nicholas Verghese'
       }).addTo(mymap);
 
       var i = 0;
