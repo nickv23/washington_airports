@@ -3,7 +3,7 @@ $(document).ready(function () {
     // 1. Create a map object.
     var mymap = L.map('map', {
         center: [47.7511, -120.7401],
-        zoom: 7,
+        zoom: 6,
         maxZoom: 10,
         minZoom: 3,
         detectRetina: true // detect whether the sceen is high resolution or not.
@@ -93,4 +93,6 @@ $(document).ready(function () {
           collapsed: false,
           position: 'topright'
       }).addTo(mymap);
+
+      L.control.scale({position: 'bottomleft'}).addTo(mymap);
 })
