@@ -1,0 +1,3305 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.56083,47.14139,235 ]
+    },
+    "properties": {
+    "X":-122.560841254856,
+    "Y":47.1413966226822,
+    "OBJECTID":1,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Lakewood",
+    "ID":"W37",
+    "STATE":"",
+    "FAA_ARC":"NA",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"02/20",
+    "RUNWAY_":"WATER",
+    "LineID":"W3702/20",
+    "NAME":"American Lake Sea Plane Base",
+    "FAA_CLASS":"SPB",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Tacoma_AmericanLakeSPB.htm",
+    "GlobalID":"{325D33CE-0F21-4D32-BBCA-DFBA31071BF8}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.66012,48.50258,241 ]
+    },
+    "properties": {
+    "X":-122.660357606123,
+    "Y":48.5024122122847,
+    "OBJECTID":2,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Anacortes",
+    "ID":"74S",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"18/36",
+    "RUNWAY_":"18",
+    "LineID":"74S18/36",
+    "NAME":"Anacortes",
+    "FAA_CLASS":"Primary",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Anacortes_Anacortes.htm",
+    "GlobalID":"{5236F453-A4B5-49F2-8326-8F27374A59A8}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.72554,48.10447,914 ]
+    },
+    "properties": {
+    "X":-119.728132052956,
+    "Y":48.104469432204,
+    "OBJECTID":3,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Brewster",
+    "ID":"S97",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"S9707/25",
+    "NAME":"Anderson Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Brewster_AndersonField.htm",
+    "GlobalID":"{A4F0479A-779B-4705-8D4E-0033FCC3AECF}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.16879,48.16168,132 ]
+    },
+    "properties": {
+    "X":-122.168811864889,
+    "Y":48.1616928519207,
+    "OBJECTID":4,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Arlington",
+    "ID":"AWO",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"11/29",
+    "RUNWAY_":"11",
+    "LineID":"AWO11/29",
+    "NAME":"Arlington Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Arlington_ArlingtonMunicipal.htm",
+    "GlobalID":"{EB159E06-306F-429F-B119-2162ED574155}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2267,47.33234,56 ]
+    },
+    "properties": {
+    "X":-122.226711660653,
+    "Y":47.3323476116583,
+    "OBJECTID":5,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Auburn",
+    "ID":"S50",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"S5016/34",
+    "NAME":"Auburn Municipal",
+    "FAA_CLASS":"Reliever",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Auburn_AuburnMunicipal.htm",
+    "GlobalID":"{AEE23AD5-94F9-4E8E-8AB6-93102103FA51}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.22225,49.00108,1650 ]
+    },
+    "properties": {
+    "X":-118.222276398079,
+    "Y":49.0010836968217,
+    "OBJECTID":6,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Laurier",
+    "ID":"69S",
+    "STATE":"Emergency",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"17/35",
+    "RUNWAY_":"17",
+    "LineID":"69S17/35",
+    "NAME":"Avey Field State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Laurier_AveyFieldState.htm",
+    "GlobalID":"{A058160F-46B5-41E2-B8E2-3670D7171435}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.5411,47.39604,1589 ]
+    },
+    "properties": {
+    "X":-121.541114710992,
+    "Y":47.3960462181137,
+    "OBJECTID":7,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Bandara",
+    "ID":"4W0",
+    "STATE":"Emergency",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"08/26",
+    "RUNWAY_":"08",
+    "LineID":"4W008/26",
+    "NAME":"Bandera State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Bandera_BanderaState.htm",
+    "GlobalID":"{36B212A6-0568-4395-A7FC-D8F5749BDF57}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.53758,48.80188,162 ]
+    },
+    "properties": {
+    "X":-122.537581562737,
+    "Y":48.8018770455116,
+    "OBJECTID":8,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Bellingham",
+    "ID":"BLI",
+    "STATE":"",
+    "FAA_ARC":"C-III",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"BLI16/34",
+    "NAME":"Bellingham International",
+    "FAA_CLASS":"Primary",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Bellingham_BellinghamIntl.htm",
+    "GlobalID":"{8EF335EF-FF71-449D-8805-F9D6FFC9D0F2}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.30747,47.53802,14 ]
+    },
+    "properties": {
+    "X":-122.307482820708,
+    "Y":47.5380274865122,
+    "OBJECTID":9,
+    "OWNERSHIP":"County",
+    "ASSOCIATED":"King",
+    "ID":"BFI",
+    "STATE":"",
+    "FAA_ARC":"D-V",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"14L/32R",
+    "RUNWAY_":"14L",
+    "LineID":"BFI14L/32R",
+    "NAME":"Boeing Field/King Conty International",
+    "FAA_CLASS":"Reliever",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Seattle_BoeingField.htm",
+    "GlobalID":"{CF7B70AB-302A-42B2-8708-0F75FA83E35F}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.94642,46.96999,18 ]
+    },
+    "properties": {
+    "X":-123.946433686111,
+    "Y":46.9700019715032,
+    "OBJECTID":10,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Hoquiam",
+    "ID":"HQM",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"06/24",
+    "RUNWAY_":"06",
+    "LineID":"HQM06/24",
+    "NAME":"Bowerman Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Hoquiam_BowermanField.htm",
+    "GlobalID":"{00D418C9-DBA8-43B6-9FC5-C24CA7DDCA3A}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.54331,47.03136,1710 ]
+    },
+    "properties": {
+    "X":-120.543924372119,
+    "Y":47.0313597107328,
+    "OBJECTID":11,
+    "OWNERSHIP":"County",
+    "ASSOCIATED":"Ellensburg",
+    "ID":"ELN",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"11/29",
+    "RUNWAY_":"11",
+    "LineID":"ELN11/29",
+    "NAME":"Bowers Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Ellensburg_BowersField.htm",
+    "GlobalID":"{7C15FB39-57F1-4784-A844-30B754EB5D95}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.76921,47.48561,443 ]
+    },
+    "properties": {
+    "X":-122.771397154629,
+    "Y":47.4833319502807,
+    "OBJECTID":12,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Bremerton",
+    "ID":"PWT",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"02/20",
+    "RUNWAY_":"02",
+    "LineID":"PWT02/20",
+    "NAME":"Bremerton National",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Bremerton_BremertonNational.htm",
+    "GlobalID":"{1160890A-0E15-4110-BA6A-B1CA11C18CBA}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43636,48.25634,145 ]
+    },
+    "properties": {
+    "X":-122.436214354342,
+    "Y":48.2545361158978,
+    "OBJECTID":13,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Stanwood",
+    "ID":"13W",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"34",
+    "LineID":"13W16/34",
+    "NAME":"Camano Island Airfield",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/CamanoIsland_CamanoIsland.htm",
+    "GlobalID":"{2573A14C-DA5B-4713-90C0-74B32AEFD964}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.4883,47.51474,858 ]
+    },
+    "properties": {
+    "X":-120.488319413177,
+    "Y":47.5147453157547,
+    "OBJECTID":14,
+    "OWNERSHIP":"County",
+    "ASSOCIATED":"Cashmere",
+    "ID":"8S2",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"8S207/25",
+    "NAME":"Cashmere Dryden",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Cashmere_CashmereDryden.htm",
+    "GlobalID":"{578CC172-BDD0-4363-BF8B-DF249C4ACC54}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.51655,45.76446,275 ]
+    },
+    "properties": {
+    "X":-122.518307172926,
+    "Y":45.7645638896984,
+    "OBJECTID":15,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Battle Ground",
+    "ID":"W58",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"08/26",
+    "RUNWAY_":"26",
+    "LineID":"W5808/26",
+    "NAME":"Cedars North Airpark",
+    "FAA_CLASS":"GA",
+    "URL":"",
+    "GlobalID":"{5C9E33EC-869A-4F44-8535-84D044770FF8}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.98313,46.68388,171 ]
+    },
+    "properties": {
+    "X":-122.983140458772,
+    "Y":46.6838849682065,
+    "OBJECTID":16,
+    "OWNERSHIP":"City/City",
+    "ASSOCIATED":"Chehalis",
+    "ID":"CLS",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"CLS16/34",
+    "NAME":"Chehalis Centralia",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Chehalis_ChehalisCentralia.htm",
+    "GlobalID":"{338725B1-C0EA-42C5-A189-C5DEFABEFB40}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.94766,47.86256,1254 ]
+    },
+    "properties": {
+    "X":-119.947678669581,
+    "Y":47.8625643187415,
+    "OBJECTID":17,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Chelan",
+    "ID":"S10",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"02/20",
+    "RUNWAY_":"02",
+    "LineID":"S1002/20",
+    "NAME":"Lake Chelan",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Chelan_ChelanMunicipal.htm",
+    "GlobalID":"{A3DE63EF-1C01-45B1-A91E-AA06EC1907E0}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.88855,47.19412,1944 ]
+    },
+    "properties": {
+    "X":-120.888812333578,
+    "Y":47.1941151291709,
+    "OBJECTID":18,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Cle Elum",
+    "ID":"S93",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"S9307/25",
+    "NAME":"Cle Elum Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/CleElum_CleElumMunicipal.htm",
+    "GlobalID":"{A7697736-BE4E-4FBF-A113-EF6BFC8CE0CA}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.17045,45.61192,242 ]
+    },
+    "properties": {
+    "X":-121.178029292673,
+    "Y":45.6208073461501,
+    "OBJECTID":19,
+    "OWNERSHIP":"City/County",
+    "ASSOCIATED":"Dalles, OR",
+    "ID":"DLS",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"13/31",
+    "RUNWAY_":"13",
+    "LineID":"DLS13/31",
+    "NAME":"Columbia Gorge Regional",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/DallesOregon_DallesMunicipal.htm",
+    "GlobalID":"{1565DD12-0F9F-4417-BB04-EF89F2688727}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8869,48.54123,1869 ]
+    },
+    "properties": {
+    "X":-117.886909895009,
+    "Y":48.5412421161368,
+    "OBJECTID":20,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Collville",
+    "ID":"63S",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"01/19",
+    "RUNWAY_":"01",
+    "LineID":"63S01/19",
+    "NAME":"Colville Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Colville_ColvilleMunicipal.htm",
+    "GlobalID":"{AF4D1EE4-D339-4853-8D7D-CA0E9BDBF4E4}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.76362,48.52988,264 ]
+    },
+    "properties": {
+    "X":-121.763635899593,
+    "Y":48.5298851350672,
+    "OBJECTID":21,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Concrete",
+    "ID":"3W5",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"3W507/25",
+    "NAME":"Mears Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Concrete_ConcreteMunicipal.htm",
+    "GlobalID":"{5EC26978-4DC6-47D7-971D-225DF6EAA588}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.1916,47.14906,4 ]
+    },
+    "properties": {
+    "X":-124.1913023327,
+    "Y":47.1494427078805,
+    "OBJECTID":22,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Copalis Beach",
+    "ID":"S16",
+    "STATE":"Emergency",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"14/32",
+    "RUNWAY_":"14",
+    "LineID":"S1614/32",
+    "NAME":"Copalis State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/CopalisBeach_CopalisState.htm",
+    "GlobalID":"{57C33800-865B-4344-8027-2175DAAAA2C3}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.10457,47.34155,472 ]
+    },
+    "properties": {
+    "X":-122.104581713275,
+    "Y":47.3415579082475,
+    "OBJECTID":23,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Kent",
+    "ID":"S36",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"15/33",
+    "RUNWAY_":"15",
+    "LineID":"S3615/33",
+    "NAME":"Norman Grier Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Kent_CrestAirpark.htm",
+    "GlobalID":"{0926BF60-7F1A-4328-B8EF-B982179FF070}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.61499,48.25982,544 ]
+    },
+    "properties": {
+    "X":-121.615002419193,
+    "Y":48.2598243443486,
+    "OBJECTID":24,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Darrington",
+    "ID":"1S2",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"10/28",
+    "RUNWAY_":"10",
+    "LineID":"1S210/28",
+    "NAME":"Darrington Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Darrington_DarringtonMunicipal.htm",
+    "GlobalID":"{2D37A18F-6D84-48F5-8ADD-D53065505519}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.17472,47.65187,2417 ]
+    },
+    "properties": {
+    "X":-118.17473561764,
+    "Y":47.6518731173448,
+    "OBJECTID":25,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Davenport",
+    "ID":"68S",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"05/23",
+    "RUNWAY_":"05",
+    "LineID":"68S05/23",
+    "NAME":"Davenport Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Davenport_DavenportMunicipal.htm",
+    "GlobalID":"{104BD0C0-A7CE-43BF-8CFA-FC71E4514833}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.42941,47.96209,2186 ]
+    },
+    "properties": {
+    "X":-117.429394828828,
+    "Y":47.9620955874175,
+    "OBJECTID":26,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Deer Park",
+    "ID":"DEW",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"DEW16/34",
+    "NAME":"Deer Park Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/DeerPark_DeerParkMunicipal.htm",
+    "GlobalID":"{CB9997EB-7961-45A6-91B6-7B5467963AD4}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.9263,46.68944,547 ]
+    },
+    "properties": {
+    "X":-119.926314225688,
+    "Y":46.6894431270709,
+    "OBJECTID":27,
+    "OWNERSHIP":"Home Owner Ass.",
+    "ASSOCIATED":"Mattawa",
+    "ID":"M94",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"10/28",
+    "RUNWAY_":"10",
+    "LineID":"M9410/28",
+    "NAME":"Desert Aire",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Mattawa_DesertAire.htm",
+    "GlobalID":"{A77D90E9-5440-48D0-8A4D-EB04D7CB96C9}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.85675,47.178,1838 ]
+    },
+    "properties": {
+    "X":-120.856768191021,
+    "Y":47.1780041753321,
+    "OBJECTID":28,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Cle Elum",
+    "ID":"2W1",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"08/26",
+    "RUNWAY_":"08",
+    "LineID":"S9308/26",
+    "NAME":"DeVere Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/CleElum_DeVereField.htm",
+    "GlobalID":"{87F29C44-80C5-4892-B46D-4D713E961818}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.41394,48.96432,1067 ]
+    },
+    "properties": {
+    "X":-119.413951922724,
+    "Y":48.9643292396107,
+    "OBJECTID":29,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Oroville",
+    "ID":"0S7",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"15/33",
+    "RUNWAY_":"15",
+    "LineID":"0S715/33",
+    "NAME":"Dorothy Scott Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Oroville_DorothyScott.htm",
+    "GlobalID":"{1C00FD1B-52E4-4B01-908F-A1582630B4A9}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.1902,47.25591,2226 ]
+    },
+    "properties": {
+    "X":-121.190214524702,
+    "Y":47.2559131590684,
+    "OBJECTID":30,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Easton",
+    "ID":"ESW",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"09/27",
+    "RUNWAY_":"09",
+    "LineID":"ESW09/27",
+    "NAME":"Easton State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Easton_EastonState.htm",
+    "GlobalID":"{53BE6346-BCB0-4D78-88E1-7E6A66E307AD}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.91056,48.70487,31 ]
+    },
+    "properties": {
+    "X":-122.910646680867,
+    "Y":48.7036456566746,
+    "OBJECTID":31,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Orcas Island",
+    "ID":"ORS",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"34",
+    "LineID":"ORS16/34",
+    "NAME":"Orcas Island",
+    "FAA_CLASS":"Commercial",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Eastsound_OrcasIsland.htm",
+    "GlobalID":"{F04D5FBC-313D-4313-BF29-6C52AC8862FE}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.52397,47.30462,1261 ]
+    },
+    "properties": {
+    "X":-119.523987387697,
+    "Y":47.304623441397,
+    "OBJECTID":32,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Ephrata",
+    "ID":"EPH",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"03/21",
+    "RUNWAY_":"03",
+    "LineID":"EPH03/29",
+    "NAME":"Ephrata Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Ephrata_EphrataMunicipal.htm",
+    "GlobalID":"{F6867B72-55AF-4654-9976-F08BA6A40199}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.32551,47.68038,1947 ]
+    },
+    "properties": {
+    "X":-117.325533512361,
+    "Y":47.6803897298687,
+    "OBJECTID":33,
+    "OWNERSHIP":"City/County",
+    "ASSOCIATED":"Spokane",
+    "ID":"SFF",
+    "STATE":"",
+    "FAA_ARC":"D-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"04R/22L",
+    "RUNWAY_":"04R",
+    "LineID":"SFF04R/22L",
+    "NAME":"Felts Field",
+    "FAA_CLASS":"Reliever",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Spokane_FeltsField.htm",
+    "GlobalID":"{DF865924-BDCF-4B17-9D5C-8A0A369E4DC4}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.65561,48.72297,2522 ]
+    },
+    "properties": {
+    "X":-118.655623414293,
+    "Y":48.7229743450089,
+    "OBJECTID":34,
+    "OWNERSHIP":"County",
+    "ASSOCIATED":"Republic",
+    "ID":"R49",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"17/35",
+    "RUNWAY_":"17",
+    "LineID":"R4917/35",
+    "NAME":"Ferry County",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Republic_FerryCounty.htm",
+    "GlobalID":"{7001798A-46BA-483C-A9FE-58677698AAF4}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.99949,47.87146,36 ]
+    },
+    "properties": {
+    "X":-121.999504983872,
+    "Y":47.8714674471777,
+    "OBJECTID":35,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Monroe",
+    "ID":"W16",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"W1607/25",
+    "NAME":"First Air Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Monroe_FirstairField.htm",
+    "GlobalID":"{E7A8C497-148C-4678-9BE5-EAD4E0777D96}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.33611,48.72806,307 ]
+    },
+    "properties": {
+    "X":-122.336122584568,
+    "Y":48.7280656835746,
+    "OBJECTID":36,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Bellingham",
+    "ID":"0W7",
+    "STATE":"",
+    "FAA_ARC":"NA",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"12W/30W",
+    "RUNWAY_":"WATER",
+    "LineID":"0W712W/30W",
+    "NAME":"Floathaven Sea Plane Base",
+    "FAA_CLASS":"SPB",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Bellingham_FloathavenSPB.htm",
+    "GlobalID":"{0F065E00-6983-480B-A126-97A689FF1D35}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.52661,45.68725,273 ]
+    },
+    "properties": {
+    "X":-122.526623989345,
+    "Y":45.6872508870863,
+    "OBJECTID":37,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Vancouver",
+    "ID":"W56",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"W5607/25",
+    "NAME":"Fly For Fun",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Vancouver_FlyForFun.htm",
+    "GlobalID":"{A2296092-2387-4636-B575-7FD9376E4F8A}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.40035,47.93631,277 ]
+    },
+    "properties": {
+    "X":-124.400362292576,
+    "Y":47.9363170618317,
+    "OBJECTID":38,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Forks",
+    "ID":"S18",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"04/22",
+    "RUNWAY_":"04",
+    "LineID":"S1804/22",
+    "NAME":"Forks Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Forks_ForksMunicipal.htm",
+    "GlobalID":"{A5FFA42E-9673-4C06-B73F-E6CC07DBD9DF}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.02473,48.52662,113 ]
+    },
+    "properties": {
+    "X":-123.024745846735,
+    "Y":48.5266214081714,
+    "OBJECTID":39,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Friday Harbor",
+    "ID":"FHR",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"FHR16/34",
+    "NAME":"Friday Harbor",
+    "FAA_CLASS":"Primary",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/FridayHarbor_FridayHarbor.htm",
+    "GlobalID":"{7EA8B81D-B139-44DC-8B0E-BBB1B8FF3EB8}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.00972,48.53722,0 ]
+    },
+    "properties": {
+    "X":-123.009734289962,
+    "Y":48.5372250926824,
+    "OBJECTID":40,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Friday Harbor",
+    "ID":"W33",
+    "STATE":"",
+    "FAA_ARC":"NA",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"03/31",
+    "RUNWAY_":"WATER",
+    "LineID":"W3303/31",
+    "NAME":"Friday Harbor Seaplane Base",
+    "FAA_CLASS":"SPB",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/FridayHarbor_FridayHarborSPB.htm",
+    "GlobalID":"{2C15B9B3-EA43-4EE5-8EA0-A852177EF56F}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.57868,45.82553,289 ]
+    },
+    "properties": {
+    "X":-122.577062247969,
+    "Y":45.825612892293,
+    "OBJECTID":41,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Battle Ground",
+    "ID":"W52",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"15/33",
+    "RUNWAY_":"15",
+    "LineID":"W5215/33",
+    "NAME":"Goheen Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/BattleGround_Goheen.htm",
+    "GlobalID":"{0F3726F5-88EE-4D3C-8ACF-8CF8861888C0}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.85151,45.83222,1669 ]
+    },
+    "properties": {
+    "X":-120.852142628816,
+    "Y":45.8319898559208,
+    "OBJECTID":42,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Goldendale",
+    "ID":"S20",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"S2007/25",
+    "NAME":"Goldendale Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Goldendale_Goldendale.htm",
+    "GlobalID":"{8FC12BF3-B68A-49F5-9336-7D8CFB808F71}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.08923,47.91858,1588 ]
+    },
+    "properties": {
+    "X":-119.089711175122,
+    "Y":47.9184534839624,
+    "OBJECTID":43,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Electric City",
+    "ID":"3W7",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"04/22",
+    "RUNWAY_":"04",
+    "LineID":"3W704/22",
+    "NAME":"Grand Coulee Dam",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/ElectricCity_GrandCouleeDam.htm",
+    "GlobalID":"{DD14A723-9E39-4323-89A3-6634D4EC21F7}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.33292,47.19674,1185 ]
+    },
+    "properties": {
+    "X":-119.332937267737,
+    "Y":47.1967432758837,
+    "OBJECTID":44,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Moses Lake",
+    "ID":"MWH",
+    "STATE":"",
+    "FAA_ARC":"D-V",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"14L/32R",
+    "RUNWAY_":"14",
+    "LineID":"MWH14L/32R",
+    "NAME":"Grant County International",
+    "FAA_CLASS":"Commercial",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/MosesLake_GrantCountyIntl.htm",
+    "GlobalID":"{C9A5BDFE-BC12-448D-B00E-86BEB9A8E3C2}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40961,45.62787,410 ]
+    },
+    "properties": {
+    "X":-122.40962314088,
+    "Y":45.6278712831836,
+    "OBJECTID":45,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Camas",
+    "ID":"1W1",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"1W107/25",
+    "NAME":"Grove Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Camas_GroveField.htm",
+    "GlobalID":"{60ACC912-BD02-44DD-B895-E5790ED41C89}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.10366,47.90833,16 ]
+    },
+    "properties": {
+    "X":-122.103678570095,
+    "Y":47.9083328094258,
+    "OBJECTID":46,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Snohomish",
+    "ID":"S43",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"15L/33R",
+    "RUNWAY_":"14L",
+    "LineID":"S4315L/33R",
+    "NAME":"Harvey Field",
+    "FAA_CLASS":"Reliever",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Snohomish_HarveyField.htm",
+    "GlobalID":"{A9318622-DC17-471E-83B6-327B2F289EEC}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.83149,46.99242,213 ]
+    },
+    "properties": {
+    "X":-122.831604294644,
+    "Y":46.9924277583309,
+    "OBJECTID":47,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Olympia",
+    "ID":"44T",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"25",
+    "LineID":"44T07/25",
+    "NAME":"Hoskins Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Olympia_HoskinsField.htm",
+    "GlobalID":"{65F01609-0059-4AA9-AFAF-2A7A821A1BD6}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.41486,48.71348,2108 ]
+    },
+    "properties": {
+    "X":-117.414870572198,
+    "Y":48.7135035080944,
+    "OBJECTID":48,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Ione",
+    "ID":"S23",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"15/33",
+    "RUNWAY_":"15",
+    "LineID":"S2315/33",
+    "NAME":"Ione Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Ione_IoneMunicipal.htm",
+    "GlobalID":"{DB62A4D0-A803-47D5-B24A-118CE750278D}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8166,48.05481,108 ]
+    },
+    "properties": {
+    "X":-122.816617578285,
+    "Y":48.05478391859,
+    "OBJECTID":49,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Port Townsend",
+    "ID":"0S9",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"09/27",
+    "RUNWAY_":"09",
+    "LineID":"0S909/27",
+    "NAME":"Jefferson County International",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/PtTownsend_JeffersonCoIntl.htm",
+    "GlobalID":"{356DD19E-0C0D-4F47-8B9F-6793C20EE42C}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.9039,46.12264,20 ]
+    },
+    "properties": {
+    "X":-122.9039235552,
+    "Y":46.1226600589649,
+    "OBJECTID":50,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Longview",
+    "ID":"KLS",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"12/30",
+    "RUNWAY_":"12",
+    "LineID":"KLS12/30",
+    "NAME":"Sothwest Washington Regional",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Kelso_KelsoLongview.htm",
+    "GlobalID":"{15C4C928-3D7B-43D1-A4A3-E455F9995D02}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.259293,47.75482,14 ]
+    },
+    "properties": {
+    "X":-122.339835367964,
+    "Y":47.6285908891066,
+    "OBJECTID":51,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Kenmore",
+    "ID":"S60",
+    "STATE":"",
+    "FAA_ARC":"NA",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"WATER",
+    "LineID":"S6016/34",
+    "NAME":"Kenmore Air Harbor",
+    "FAA_CLASS":"SPB",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Kenmore_KenmoreAirHarbor.htm",
+    "GlobalID":"{14053C4A-4EA6-402B-8CB9-AE38DFE70808}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.72464,47.82054,1939 ]
+    },
+    "properties": {
+    "X":-120.724658055945,
+    "Y":47.8205464890541,
+    "OBJECTID":52,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Leavenworth",
+    "ID":"27W",
+    "STATE":"Emergency",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"09/27",
+    "RUNWAY_":"09",
+    "LineID":"27W09/27",
+    "NAME":"Lake Wenatchee State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Leavenworth_LakeWenatcheeState.htm",
+    "GlobalID":"{49F27459-6B82-4552-AB84-C1A7B0F698D0}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.59297,46.9749,1485 ]
+    },
+    "properties": {
+    "X":-118.592987083388,
+    "Y":46.9749073406331,
+    "OBJECTID":53,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Lind",
+    "ID":"0S0",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"05/23",
+    "RUNWAY_":"05",
+    "LineID":"0S005/23",
+    "NAME":"Lind Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Lind_LindMunicipal.htm",
+    "GlobalID":"{00985DB2-97AC-4BDD-A872-FF82BA1E9BAC}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.99669,46.58394,681 ]
+    },
+    "properties": {
+    "X":-117.99673966794,
+    "Y":46.5838772550853,
+    "OBJECTID":54,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Starbuck",
+    "ID":"16W",
+    "STATE":"Emergency",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"16W07/25",
+    "NAME":"Little Goose Lock & Dam State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Starbuck_LittleGooseLock.htm",
+    "GlobalID":"{B9959756-1523-4785-BA95-51172B4B2306}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.9377,48.48789,209 ]
+    },
+    "properties": {
+    "X":-122.937713280795,
+    "Y":48.4878951277451,
+    "OBJECTID":55,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Lopez",
+    "ID":"S31",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"S3116/34",
+    "NAME":"Lopez Island",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Lopez_LopezIsland.htm",
+    "GlobalID":"{F05825E7-F82F-4C5E-9F34-7B38E25DB76A}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.46316,48.95602,106 ]
+    },
+    "properties": {
+    "X":-122.46317683668,
+    "Y":48.9560220320418,
+    "OBJECTID":56,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Lynden",
+    "ID":"38W",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"38W07/25",
+    "NAME":"Lynden Municipal (Jansen Field)",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Lynden_LyndenMunicipal.htm",
+    "GlobalID":"{177527B5-EB05-4E3F-8258-6650C213BD60}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.64108,47.80724,2271 ]
+    },
+    "properties": {
+    "X":-119.641097551191,
+    "Y":47.8072444008312,
+    "OBJECTID":57,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Mansfield",
+    "ID":"8W3",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"03/21",
+    "RUNWAY_":"03",
+    "LineID":"8W303/21",
+    "NAME":"Mansfield",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Mansfield_Mansfield.htm",
+    "GlobalID":"{0EEFD0C4-CE6F-46F8-AB71-88D4CC1BEB3E}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.42401,46.04475,715 ]
+    },
+    "properties": {
+    "X":-118.424025836614,
+    "Y":46.044754662704,
+    "OBJECTID":58,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"College Place",
+    "ID":"S95",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"05/23",
+    "RUNWAY_":"05",
+    "LineID":"S9505/23",
+    "NAME":"Martin Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/CollegePlace_MartinField.htm",
+    "GlobalID":"{4BF78883-B7A0-4662-914B-F2EA3609484E}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.35822,47.79059,1896 ]
+    },
+    "properties": {
+    "X":-117.358235691686,
+    "Y":47.7905945980975,
+    "OBJECTID":59,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Mead",
+    "ID":"70S",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"70S16/34",
+    "NAME":"Mead Flying Service",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Mead_MeadFlyingService.htm",
+    "GlobalID":"{877F9591-F90F-4B89-AAB9-998E8C495BEE}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.15157,48.43074,1706 ]
+    },
+    "properties": {
+    "X":-120.151579998566,
+    "Y":48.4307379425912,
+    "OBJECTID":60,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Winthrop",
+    "ID":"S52",
+    "STATE":"Emergency",
+    "FAA_ARC":"A-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"13/31",
+    "RUNWAY_":"13",
+    "LineID":"S5213/31",
+    "NAME":"Methow Valley",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Winthrop_MethowValleyState.htm",
+    "GlobalID":"{E6145CD9-1D23-4994-AC7E-33D865D1B381}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.23784,47.14545,1200 ]
+    },
+    "properties": {
+    "X":-119.237859056665,
+    "Y":47.1454569419508,
+    "OBJECTID":61,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Moses Lake",
+    "ID":"W20",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"W2016/34",
+    "NAME":"Moses Lake Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/MosesLake_MosesLakeMunicipal.htm",
+    "GlobalID":"{C7BCB288-A708-4C1F-841E-8885AD1CEF4E}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.06561,46.96964,1238 ]
+    },
+    "properties": {
+    "X":-119.065627373056,
+    "Y":46.9696432699283,
+    "OBJECTID":62,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Warden",
+    "ID":"2S4",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"17/35",
+    "RUNWAY_":"17",
+    "LineID":"2S417/35",
+    "NAME":"Warden",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Warden_NewWarden.htm",
+    "GlobalID":"{FFD18CE4-E3FE-4010-AD9D-513A39999E01}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.14348,47.0034,13 ]
+    },
+    "properties": {
+    "X":-124.143493023131,
+    "Y":47.0034083220669,
+    "OBJECTID":63,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Ocean Shores",
+    "ID":"W04",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"15/33",
+    "RUNWAY_":"15",
+    "LineID":"W0415/33",
+    "NAME":"Ocean Shores Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/OceanShores_OceanShoresMunicipal.htm",
+    "GlobalID":"{BC99630E-7556-4506-B483-32C6C2FA527D}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.68132,47.34431,1723 ]
+    },
+    "properties": {
+    "X":-118.681336532838,
+    "Y":47.3443128340947,
+    "OBJECTID":64,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Odessa",
+    "ID":"43D",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"02/20",
+    "RUNWAY_":"02",
+    "LineID":"43D02/20",
+    "NAME":"Odessa Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Odessa_OdessaMunicipal.htm",
+    "GlobalID":"{3C97194D-EA98-478E-A778-F967C96CA10C}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.57203,48.36012,1042 ]
+    },
+    "properties": {
+    "X":-119.572015122355,
+    "Y":48.3601138727402,
+    "OBJECTID":65,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Okanogan",
+    "ID":"S35",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"04/22",
+    "RUNWAY_":"04",
+    "LineID":"S3504/22",
+    "NAME":"Okanogan Legion",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Okanogan_OkanoganLegion.htm",
+    "GlobalID":"{58E3B69F-0698-4417-AA74-0F189D10F87B}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.908,46.97133,198 ]
+    },
+    "properties": {
+    "X":-122.908041244201,
+    "Y":46.9713455793223,
+    "OBJECTID":66,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Olympia",
+    "ID":"OLM",
+    "STATE":"",
+    "FAA_ARC":"C-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"08/26",
+    "RUNWAY_":"08",
+    "LineID":"OLM08/26",
+    "NAME":"Olympia Regional",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Olympia_OlympiaRegional.htm",
+    "GlobalID":"{16959992-9A76-4B64-BED5-690064A40B62}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.51658,48.47074,1303 ]
+    },
+    "properties": {
+    "X":-119.516597963186,
+    "Y":48.4707504199013,
+    "OBJECTID":67,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Omak",
+    "ID":"OMK",
+    "STATE":"",
+    "FAA_ARC":"A-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"17/35",
+    "RUNWAY_":"17",
+    "LineID":"OMK17/35",
+    "NAME":"Omak Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Omak_OmakMunicipal.htm",
+    "GlobalID":"{973937B4-515B-4E80-8BD6-4E684851AEAD}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.08751,46.79499,1136 ]
+    },
+    "properties": {
+    "X":-119.087527392051,
+    "Y":46.7949933560198,
+    "OBJECTID":68,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Othello",
+    "ID":"S70",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"S7007/25",
+    "NAME":"Othello Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Othello_OthelloMunicipal.htm",
+    "GlobalID":"{D6B8AD6D-C818-4EDD-BA21-7F63BF28DBE8}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.68016,46.60133,1049 ]
+    },
+    "properties": {
+    "X":-121.680169614257,
+    "Y":46.6013315528344,
+    "OBJECTID":69,
+    "OWNERSHIP":"County",
+    "ASSOCIATED":"Packwood",
+    "ID":"55S",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"01/19",
+    "RUNWAY_":"01",
+    "LineID":"55S01/19",
+    "NAME":"Packwood",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Packwood_Packwood.htm",
+    "GlobalID":"{F219019E-72F9-4985-9422-BFC41BB2870D}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.21514,47.39859,1205 ]
+    },
+    "properties": {
+    "X":-120.215160600546,
+    "Y":47.3985977291591,
+    "OBJECTID":70,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"East Wenatchee",
+    "ID":"EAT",
+    "STATE":"",
+    "FAA_ARC":"B-III",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"12/30",
+    "RUNWAY_":"12",
+    "LineID":"EAT12/30",
+    "NAME":"Pangborn Memorial",
+    "FAA_CLASS":"Primary",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Wenatchee_PangbornMemorial.htm",
+    "GlobalID":"{C3887563-2F09-4221-B77D-D1101FA75D7C}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.66282,45.62109,28 ]
+    },
+    "properties": {
+    "X":-122.662841324711,
+    "Y":45.6210994395378,
+    "OBJECTID":71,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Vancouver",
+    "ID":"VUO",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"08/26",
+    "RUNWAY_":"08",
+    "LineID":"VUO08/26",
+    "NAME":"Pearson Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Vancouver_PearsonField.htm",
+    "GlobalID":"{05BD405A-D3FA-4345-8AE8-B021D8BC2298}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.28712,47.10892,537 ]
+    },
+    "properties": {
+    "X":-122.287138881888,
+    "Y":47.1089306573029,
+    "OBJECTID":72,
+    "OWNERSHIP":"County",
+    "ASSOCIATED":"Puyallup",
+    "ID":"PLU",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"17/35",
+    "RUNWAY_":"17",
+    "LineID":"1S017/35",
+    "NAME":"Pierce County/Thun Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Puyallup_PierceCoThunField.htm",
+    "GlobalID":"{75F71177-2417-469C-9DAA-04061041D209}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.00741,46.31633,13 ]
+    },
+    "properties": {
+    "X":-124.007433237176,
+    "Y":46.3163336732769,
+    "OBJECTID":73,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Ilwaco",
+    "ID":"7W1",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"10/28",
+    "RUNWAY_":"10",
+    "LineID":"7W110/28",
+    "NAME":"Port of Ilwaco",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Ilwaco_PortOfIlwaco.htm",
+    "GlobalID":"{C6BBD52A-E19B-4157-9626-92AC845F825C}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6475,47.73389,0 ]
+    },
+    "properties": {
+    "X":-122.647513485523,
+    "Y":47.7338966690817,
+    "OBJECTID":74,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Poulsbo",
+    "ID":"83Q",
+    "STATE":"",
+    "FAA_ARC":"NA",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"13W/31W",
+    "RUNWAY_":"WATER",
+    "LineID":"83Q13W/31W",
+    "NAME":"Port of Poulsbo Marina Sea Plane Base",
+    "FAA_CLASS":"SPB",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Poulsbo_PtPoulsboSPB.htm",
+    "GlobalID":"{8F4C4CF0-B3CE-4EDA-9413-579B37463759}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.42049,46.85875,2149 ]
+    },
+    "properties": {
+    "X":-117.420508656234,
+    "Y":46.858752036435,
+    "OBJECTID":75,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Cofax",
+    "ID":"S94",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"08/26",
+    "RUNWAY_":"08",
+    "LineID":"S9408/26",
+    "NAME":"Port of Whitman Business Air Center",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Colfax_PtWhitmanBusAirCtr.htm",
+    "GlobalID":"{D528DC7A-A18A-4687-8D0A-9F8CD1081F2A}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.79819,46.21338,696 ]
+    },
+    "properties": {
+    "X":-119.80239512069,
+    "Y":46.2133923394893,
+    "OBJECTID":76,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Prosser",
+    "ID":"S40",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"08/26",
+    "RUNWAY_":"08",
+    "LineID":"S4008/26",
+    "NAME":"Prosser",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Prosser_Prosser.htm",
+    "GlobalID":"{23DFE768-8947-467F-BD4B-36A984751074}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.39292,47.1188,1782 ]
+    },
+    "properties": {
+    "X":-118.393378921569,
+    "Y":47.1182270568008,
+    "OBJECTID":77,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Ritzville",
+    "ID":"33S",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"01/19",
+    "RUNWAY_":"01",
+    "LineID":"33S01/19",
+    "NAME":"Pru Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Ritzville_PruField.htm",
+    "GlobalID":"{9D631D50-E0BE-4037-817C-994D2B32E676}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1116192,46.7416914,2566 ]
+    },
+    "properties": {
+    "X":-117.111669793882,
+    "Y":46.7417237208294,
+    "OBJECTID":78,
+    "OWNERSHIP":"City/City",
+    "ASSOCIATED":"Pullman",
+    "ID":"PUW",
+    "STATE":"",
+    "FAA_ARC":"B-III",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"05/23",
+    "RUNWAY_":"05",
+    "LineID":"PUW05/23",
+    "NAME":"Pullman / Moscow Regional",
+    "FAA_CLASS":"Primary",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/PullmanMoscowIdaho_PullmanMoscowReg.htm",
+    "GlobalID":"{FBEF95D6-73D3-46E6-8C56-AE5B9DBCE5DD}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.56994,47.93356,175 ]
+    },
+    "properties": {
+    "X":-124.569948576478,
+    "Y":47.9335508088413,
+    "OBJECTID":79,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Forks",
+    "ID":"UIL",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"04/22",
+    "RUNWAY_":"04",
+    "LineID":"UIL04/22",
+    "NAME":"Quillayute",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Quillayute_Quillayute.htm",
+    "GlobalID":"{5B122DAF-FB9E-40E1-857E-FE7E9679AB10}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.84689,47.213,1271 ]
+    },
+    "properties": {
+    "X":-119.84690383013,
+    "Y":47.2130083625308,
+    "OBJECTID":80,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Quincy",
+    "ID":"80T",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"09/27",
+    "RUNWAY_":"09",
+    "LineID":"80T09/27",
+    "NAME":"Quincy Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Quincy_QuincyMunicipal.htm",
+    "GlobalID":"{4B67AE1C-AB9D-44D2-AA03-AB4DE5F466C4}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.53515,47.01679,2567 ]
+    },
+    "properties": {
+    "X":-121.535162102458,
+    "Y":47.0167966961735,
+    "OBJECTID":81,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Greenwater",
+    "ID":"21W",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"15/33",
+    "RUNWAY_":"15",
+    "LineID":"21W15/33",
+    "NAME":"Ranger Creek State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Greenwater_RangerCreekState.htm",
+    "GlobalID":"{924263D4-55EC-4445-9511-AE902F49647B}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.21685,47.50047,24 ]
+    },
+    "properties": {
+    "X":-122.216862629366,
+    "Y":47.5004776499196,
+    "OBJECTID":82,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Renton",
+    "ID":"RNT",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"RNT16/34",
+    "NAME":"Renton Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Renton_RentonMunicipal.htm",
+    "GlobalID":"{D3AD4322-9A88-43BE-BE9F-78B9B45CD229}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.30845,46.29996,391 ]
+    },
+    "properties": {
+    "X":-119.308568007216,
+    "Y":46.2998093052128,
+    "OBJECTID":83,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Richland",
+    "ID":"RLD",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"01/19",
+    "RUNWAY_":"01",
+    "LineID":"RLD01/19",
+    "NAME":"Richland",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Richland_Richland.htm",
+    "GlobalID":"{23E82E77-12A5-4035-8ADE-23D2869C8D72}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.15972,48.60806,0 ]
+    },
+    "properties": {
+    "X":-123.159734978397,
+    "Y":48.6080653910852,
+    "OBJECTID":84,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Roche Harbor",
+    "ID":"W39",
+    "STATE":"",
+    "FAA_ARC":"NA",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"NE/SW",
+    "RUNWAY_":"WATER",
+    "LineID":"W39NE/SW",
+    "NAME":"Roche Harbor Sea Plane Base",
+    "FAA_CLASS":"SPB",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/RocheHarbor_RocheHarborSPB.htm",
+    "GlobalID":"{662E845A-F8E3-4A3D-885B-D34932E236BC}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.96737,46.0748,869 ]
+    },
+    "properties": {
+    "X":-116.967384230315,
+    "Y":46.0748048941792,
+    "OBJECTID":85,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Anatone",
+    "ID":"D69",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"09/27",
+    "RUNWAY_":"09",
+    "LineID":"D6909/27",
+    "NAME":"Rogersburg State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Anatone_RogersburgState.htm",
+    "GlobalID":"{F590CBAE-C787-47DD-9680-510895868BAC}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.42491,47.23358,2169 ]
+    },
+    "properties": {
+    "X":-117.424925979991,
+    "Y":47.2335836461467,
+    "OBJECTID":86,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Rosalia",
+    "ID":"72S",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"02/20",
+    "RUNWAY_":"02",
+    "LineID":"72S02/20",
+    "NAME":"Rosalia Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Rosalia_RosaliaMunicipal.htm",
+    "GlobalID":"{19D68369-494E-41A0-ACB6-658E388DB763}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.86806,48.64556,0 ]
+    },
+    "properties": {
+    "X":-122.868074904082,
+    "Y":48.6455652408182,
+    "OBJECTID":87,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Rosario",
+    "ID":"W49",
+    "STATE":"",
+    "FAA_ARC":"NA",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"WATER",
+    "LineID":"W4916/34",
+    "NAME":"Rosario Sea Plane Base",
+    "FAA_CLASS":"SPB",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Rosario_RosarioSPB.htm",
+    "GlobalID":"{D61D05B5-A322-43AA-BF36-BCD8EBF48518}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.7422,48.31874,2084 ]
+    },
+    "properties": {
+    "X":-117.742210573662,
+    "Y":48.3187419960831,
+    "OBJECTID":88,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Chewelah",
+    "ID":"1S9",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"17/35",
+    "RUNWAY_":"17",
+    "LineID":"1S917/35",
+    "NAME":"Chewelah Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Chewelah_SandCanyon.htm",
+    "GlobalID":"{C9CC0427-D384-4EF3-B61B-55DF53A88011}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1569,47.23097,258 ]
+    },
+    "properties": {
+    "X":-123.15688576675,
+    "Y":47.2309843893671,
+    "OBJECTID":89,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Shelton",
+    "ID":"SHN",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"05/23",
+    "RUNWAY_":"05",
+    "LineID":"SHN05/23",
+    "NAME":"Sanderson Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Shelton_SandersonField.htm",
+    "GlobalID":"{01CF558E-B498-4222-9473-8F0BFBD5F58C}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.30775,47.4638,433 ]
+    },
+    "properties": {
+    "X":-122.307796078151,
+    "Y":47.4639205606839,
+    "OBJECTID":90,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Sea-Tac",
+    "ID":"SEA",
+    "STATE":"",
+    "FAA_ARC":"D-V",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"16L/34R",
+    "RUNWAY_":"16L",
+    "LineID":"SEA16L/34R",
+    "NAME":"Seattle-Tacoma International",
+    "FAA_CLASS":"Primary",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Seattle_SeattleTacomaIntl.htm",
+    "GlobalID":"{74E81FD0-96E6-491C-8F12-ADD48C1237B2}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.32002,48.26686,312 ]
+    },
+    "properties": {
+    "X":-124.320034254696,
+    "Y":48.2668654916854,
+    "OBJECTID":91,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Port Angeles",
+    "ID":"11S",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"08/26",
+    "RUNWAY_":"08",
+    "LineID":"11S08/26",
+    "NAME":"Sekiu",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Sekiu_Sekiu.htm",
+    "GlobalID":"{3E73BA34-1C00-4F91-9FA3-0EA81A7D60A5}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.19479,48.09934,135 ]
+    },
+    "properties": {
+    "X":-123.194803566134,
+    "Y":48.0993459822898,
+    "OBJECTID":92,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Sequim",
+    "ID":"W28",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"09/27",
+    "RUNWAY_":"09",
+    "LineID":"W2809/27",
+    "NAME":"Sequim Valley",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Sequim_SequimValley.htm",
+    "GlobalID":"{9F14AB2B-6D88-48A8-87DB-526E30C7F697}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43094,48.47785,142 ]
+    },
+    "properties": {
+    "X":-122.430938114516,
+    "Y":48.4778476027943,
+    "OBJECTID":93,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Burlington",
+    "ID":"BVS",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"11/29",
+    "RUNWAY_":"11",
+    "LineID":"BVS11/29",
+    "NAME":"Skagit Regional",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Burlington_SkagitRegional.htm",
+    "GlobalID":"{23C09B36-395C-4F7C-93A5-8079A90DCD09}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.34315,47.71042,992 ]
+    },
+    "properties": {
+    "X":-121.34316578301,
+    "Y":47.7104271914648,
+    "OBJECTID":94,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Skykomish",
+    "ID":"S88",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"06/24",
+    "RUNWAY_":"06",
+    "LineID":"S8806/24",
+    "NAME":"Skykomish State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Skykomish_SkykomishState.htm",
+    "GlobalID":"{891CA51E-B999-46CD-A703-954405E4889C}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.684618,48.483158,0 ]
+    },
+    "properties": {
+    "X":-122.679162847342,
+    "Y":48.4871259178916,
+    "OBJECTID":95,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Anacortes",
+    "ID":"21H",
+    "STATE":"",
+    "FAA_ARC":"NA",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"NW/SE",
+    "RUNWAY_":"WATER",
+    "LineID":"21H",
+    "NAME":"Skyline Sea Plane Base",
+    "FAA_CLASS":"SPB",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Anacortes_SkylineSPB.htm",
+    "GlobalID":"{53B37AF6-979B-430C-BEE1-713A85BEE2E0}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.28677,47.91041,561 ]
+    },
+    "properties": {
+    "X":-122.286756795962,
+    "Y":47.910455703914,
+    "OBJECTID":96,
+    "OWNERSHIP":"County",
+    "ASSOCIATED":"Everett",
+    "ID":"PAE",
+    "STATE":"",
+    "FAA_ARC":"D-V",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"PAE16/34",
+    "NAME":"Snohomish County Paine Field",
+    "FAA_CLASS":"Reliever",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Everett_SnohomishCounty.htm",
+    "GlobalID":"{405D8DE9-4F8E-4A40-8E5F-960444CE21F7}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.55327,47.61697,2372 ]
+    },
+    "properties": {
+    "X":-117.553301016087,
+    "Y":47.6169254680769,
+    "OBJECTID":97,
+    "OWNERSHIP":"County",
+    "ASSOCIATED":"Spokane",
+    "ID":"GEG",
+    "STATE":"",
+    "FAA_ARC":"C-IV",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"03/21",
+    "RUNWAY_":"03",
+    "LineID":"GEG03/21",
+    "NAME":"Spokane International",
+    "FAA_CLASS":"Primary",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Spokane_SpokaneIntl.htm",
+    "GlobalID":"{0E268215-4C40-4D2A-9868-08FDDB6D1CBE}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.27022,46.55037,941 ]
+    },
+    "properties": {
+    "X":-122.27024869908,
+    "Y":46.5503769447931,
+    "OBJECTID":98,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Morton",
+    "ID":"39P",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"39P07/25",
+    "NAME":"Strom Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Morton_StromField.htm",
+    "GlobalID":"{E1C5B14B-3543-4174-9753-480C9B46BD7C}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.28399,48.84331,2621 ]
+    },
+    "properties": {
+    "X":-117.284005450122,
+    "Y":48.843316123571,
+    "OBJECTID":99,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Metaline Falls",
+    "ID":"09S",
+    "STATE":"Emergency",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"09S16/34",
+    "NAME":"Sullivan Lake State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/MetallineFalls_SullivanLakeState.htm",
+    "GlobalID":"{953137A8-B316-4BA7-8004-3E11AEC46040}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.97713,46.3271,745 ]
+    },
+    "properties": {
+    "X":-119.977152729687,
+    "Y":46.3271031710704,
+    "OBJECTID":100,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Sunnyside",
+    "ID":"1S5",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"1S507/25",
+    "NAME":"Sunnyside Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Sunnyside_SunnysideMunicipal.htm",
+    "GlobalID":"{C41D18B0-9AD3-4B1B-A0F8-89D9F92C5984}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.25672,46.87573,843 ]
+    },
+    "properties": {
+    "X":-122.256730264921,
+    "Y":46.8757346326462,
+    "OBJECTID":101,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Eatonville",
+    "ID":"2W3",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"2W316/34",
+    "NAME":"Swanson Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Eatonville_SwansonField.htm",
+    "GlobalID":"{ECD2C7D1-A119-41AC-B418-E481FE205F8E}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.57688,47.27475,291 ]
+    },
+    "properties": {
+    "X":-122.57689160738,
+    "Y":47.2747569437412,
+    "OBJECTID":102,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Tacoma",
+    "ID":"TIW",
+    "STATE":"",
+    "FAA_ARC":"D-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"17/35",
+    "RUNWAY_":"17",
+    "LineID":"TIW17/35",
+    "NAME":"Tacoma Narrows",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Tacoma_TacomaNarrows.htm",
+    "GlobalID":"{D4B9940D-E42E-42C2-8C23-881699A03C60}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.12736,46.63502,2938 ]
+    },
+    "properties": {
+    "X":-121.127377307287,
+    "Y":46.6350225221889,
+    "OBJECTID":103,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Rimrock",
+    "ID":"4S6",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"02/20",
+    "RUNWAY_":"02",
+    "LineID":"4S602/20",
+    "NAME":"Tieton State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Rimrock_TietonState.htm",
+    "GlobalID":"{FAEC1333-3278-4B2A-B4AD-C30140B52114}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.81638,46.47517,354 ]
+    },
+    "properties": {
+    "X":-122.816399395198,
+    "Y":46.4751729369,
+    "OBJECTID":104,
+    "OWNERSHIP":"County",
+    "ASSOCIATED":"Toledo",
+    "ID":"TDO",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"06/24",
+    "RUNWAY_":"06",
+    "LineID":"TDO06/24",
+    "NAME":"Ed Carlson Memorial Field - South Lewis County",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/EdCarlsonMemorial.htm",
+    "GlobalID":"{0EC4ED1A-BD11-4969-8B0C-A2834BB3CB70}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.46754,48.72886,1311 ]
+    },
+    "properties": {
+    "X":-119.467552600768,
+    "Y":48.728860996678,
+    "OBJECTID":105,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Tonasket",
+    "ID":"W01",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"15/33",
+    "RUNWAY_":"15",
+    "LineID":"W0115/33",
+    "NAME":"Tonasket Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Tonasket_TonasketMunicipal.htm",
+    "GlobalID":"{91EA8810-C8C6-4F1C-BC0D-A162DD67BA09}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.12202,46.26065,399 ]
+    },
+    "properties": {
+    "X":-119.122036165965,
+    "Y":46.2606534970953,
+    "OBJECTID":106,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Tri-Cities",
+    "ID":"PSC",
+    "STATE":"",
+    "FAA_ARC":"C-III",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"03R/21L",
+    "RUNWAY_":"03R",
+    "LineID":"PSC03R/21L",
+    "NAME":"Tri-Cities",
+    "FAA_CLASS":"Primary",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Pasco_TriCities.htm",
+    "GlobalID":"{367277B7-523E-43BF-A89A-6C14D72DCF1E}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.09884,48.35234,1602 ]
+    },
+    "properties": {
+    "X":-120.098848683333,
+    "Y":48.3523460330378,
+    "OBJECTID":107,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Twisp",
+    "ID":"2S0",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"10/28",
+    "RUNWAY_":"10",
+    "LineID":"2S010/28",
+    "NAME":"Twisp Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Twisp_TwispMunicipal.htm",
+    "GlobalID":"{B7B8B15B-13C6-4702-98F1-FEF4D8C7577C}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.47646,47.46131,316 ]
+    },
+    "properties": {
+    "X":-122.476474250953,
+    "Y":47.4613163087228,
+    "OBJECTID":108,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Vashon Island",
+    "ID":"2S1",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"17/35",
+    "RUNWAY_":"17",
+    "LineID":"2S117/35",
+    "NAME":"Vashon Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Vashon_VashonMunicipal.htm",
+    "GlobalID":"{AB226893-862E-4111-B332-30C1172A87B7}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.29749,46.09903,1121 ]
+    },
+    "properties": {
+    "X":-118.298099418544,
+    "Y":46.0990318321005,
+    "OBJECTID":109,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Walla Walla",
+    "ID":"ALW",
+    "STATE":"",
+    "FAA_ARC":"C-IV",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"02/20",
+    "RUNWAY_":"02",
+    "LineID":"ALW02/21",
+    "NAME":"Walla Walla Regional",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/WallaWalla_WallaWallaRegional.htm",
+    "GlobalID":"{1A4C13CF-A417-4AAA-A545-9FF08152E5A7}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.06251,47.65602,2645 ]
+    },
+    "properties": {
+    "X":-120.0627761326,
+    "Y":47.6560334337266,
+    "OBJECTID":110,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Waterville",
+    "ID":"2S5",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"2S507/25",
+    "NAME":"Waterville",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Waterville_Waterville.htm",
+    "GlobalID":"{384799B1-02BC-453D-B898-4D76732B9C42}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.67342,48.251502,140 ]
+    },
+    "properties": {
+    "X":-122.680324270492,
+    "Y":48.2515553761572,
+    "OBJECTID":111,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Oak Harbor",
+    "ID":"OKH",
+    "STATE":"",
+    "FAA_ARC":"A-II",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"07/25",
+    "RUNWAY_":"07",
+    "LineID":"OKH07/25",
+    "NAME":"AJ Eisenberg",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/AJEisenberg_OakHarbor.htm",
+    "GlobalID":"{FC05189F-9D9F-41BE-9891-2611C9066360}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.10392,46.89926,14 ]
+    },
+    "properties": {
+    "X":-124.103936234471,
+    "Y":46.8992671793095,
+    "OBJECTID":112,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Westport",
+    "ID":"14S",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"12/30",
+    "RUNWAY_":"12",
+    "LineID":"14S12/30",
+    "NAME":"Westport",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Westport_Westport.htm",
+    "GlobalID":"{EC9C2BA0-02AE-42B2-8FFE-32DBF21B0B98}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43823,48.02099,271 ]
+    },
+    "properties": {
+    "X":-122.438244312116,
+    "Y":48.0209959974806,
+    "OBJECTID":113,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Lanley",
+    "ID":"W10",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"W1016/34",
+    "NAME":"Whidbey Airpark",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Langley_WhidbeyAirpark.htm",
+    "GlobalID":"{BBB4F08C-5DBE-4083-AEB9-E69A67EF5BE3}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.74683,47.75078,2171 ]
+    },
+    "properties": {
+    "X":-118.748611737866,
+    "Y":47.7491683560113,
+    "OBJECTID":114,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Wilbur",
+    "ID":"2S8",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"02/20",
+    "RUNWAY_":"02",
+    "LineID":"2S802/20",
+    "NAME":"Wilbur Municipal",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Wilbur_WilburMunicipal.htm",
+    "GlobalID":"{F6C80F86-E635-4421-8DA1-3C03F53B5EC7}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.21917,47.49972,14 ]
+    },
+    "properties": {
+    "X":-122.219182638519,
+    "Y":47.4997276434604,
+    "OBJECTID":115,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Renton",
+    "ID":"W36",
+    "STATE":"",
+    "FAA_ARC":"NA",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"12W/30W",
+    "RUNWAY_":"WATER",
+    "LineID":"W3612W/30W",
+    "NAME":"Will Rogers Wiley Post Memorial",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Renton_WillRogers.htm",
+    "GlobalID":"{92D91C5A-6679-4C1F-B9E6-7DB53DFE7C95}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.82761,46.70054,12 ]
+    },
+    "properties": {
+    "X":-123.827634233854,
+    "Y":46.7005377900169,
+    "OBJECTID":116,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"South Bend",
+    "ID":"2S9",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"11/29",
+    "RUNWAY_":"11",
+    "LineID":"2S911/29",
+    "NAME":"Willapa Harbor",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/SouthBend_WillapaHarborAirport.htm",
+    "GlobalID":"{2E210FCC-5E32-47B3-BCAD-1C2B44187522}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.04765,47.23394,2520 ]
+    },
+    "properties": {
+    "X":-117.047663077584,
+    "Y":47.233945882389,
+    "OBJECTID":117,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Tekoa",
+    "ID":"73S",
+    "STATE":"",
+    "FAA_ARC":"B-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"04/22",
+    "RUNWAY_":"04",
+    "LineID":"73S04/22",
+    "NAME":"Willard Field",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Tekoa_WillardField.htm",
+    "GlobalID":"{792C05A8-C939-49B1-B51E-19C550D7FF06}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.51152,48.12104,284 ]
+    },
+    "properties": {
+    "X":-123.511530767732,
+    "Y":48.1210417872821,
+    "OBJECTID":118,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Port Angeles",
+    "ID":"CLM",
+    "STATE":"",
+    "FAA_ARC":"B-II",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"08/26",
+    "RUNWAY_":"08",
+    "LineID":"CLM08/26",
+    "NAME":"William R. Fairchild Intl",
+    "FAA_CLASS":"Primary",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/PtAngeles_WilliamRFairchildIntl.htm",
+    "GlobalID":"{1C421E1F-9226-4702-B779-A25675C748F2}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.73882,45.90127,25 ]
+    },
+    "properties": {
+    "X":-122.738834861125,
+    "Y":45.9012704790934,
+    "OBJECTID":119,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Woodland",
+    "ID":"W27",
+    "STATE":"Emergency",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"14/32",
+    "RUNWAY_":"14",
+    "LineID":"W2714/32",
+    "NAME":"Woodland State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Woodland_WoodlandState.htm",
+    "GlobalID":"{06F9CBA4-8A15-4D8C-A463-32E9D16986C3}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.54813,46.5639,1073 ]
+    },
+    "properties": {
+    "X":-120.54814864642,
+    "Y":46.5639029255332,
+    "OBJECTID":120,
+    "OWNERSHIP":"City/County",
+    "ASSOCIATED":"Yakima",
+    "ID":"YKM",
+    "STATE":"",
+    "FAA_ARC":"C-III",
+    "SYSTEM_PLA":"NPIAS",
+    "DESIGNATIO":"09/27",
+    "RUNWAY_":"09",
+    "LineID":"YKM09/27",
+    "NAME":"Yakima Air Terminal, McAllister Field",
+    "FAA_CLASS":"Primary",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Yakima_McAllisterField.htm",
+    "GlobalID":"{084F74B5-8059-479B-AE90-5892FAF431AD}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.53332,46.55382,813 ]
+    },
+    "properties": {
+    "X":-118.533207041054,
+    "Y":46.5540254884696,
+    "OBJECTID":121,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Kahlotus",
+    "ID":"W09",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"01/19",
+    "RUNWAY_":"01",
+    "LineID":"W0901/19",
+    "NAME":"Lower Monumental State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Kahlotus_LowerMonumentalState.htm",
+    "GlobalID":"{B767CD2E-A056-41D1-BCC9-CBF95FC31ACD}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.43847,46.66876,719 ]
+    },
+    "properties": {
+    "X":-117.438231032314,
+    "Y":46.6685564705267,
+    "OBJECTID":122,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Colfax",
+    "ID":"00W",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"14/32",
+    "RUNWAY_":"14",
+    "LineID":"00W14/32",
+    "NAME":"Lower Granite State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Colfax_LowerGraniteState.htm",
+    "GlobalID":"{C87B2CCC-6A5F-4F52-818E-98DFFBFC31CB}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.72324,48.3489,1230 ]
+    },
+    "properties": {
+    "X":-120.723252063362,
+    "Y":48.3489019086995,
+    "OBJECTID":123,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Stehekin",
+    "ID":"6S9",
+    "STATE":"Emergency",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"13/31",
+    "RUNWAY_":"13",
+    "LineID":"6S913/31",
+    "NAME":"Stehekin State",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Stehekin_StehekinState.htm",
+    "GlobalID":"{16DE5444-DBB7-4E92-9775-D59D5A07AA6F}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.50623,48.6524,2415 ]
+    },
+    "properties": {
+    "X":-120.506625471185,
+    "Y":48.6524741744467,
+    "OBJECTID":124,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Mazama",
+    "ID":"W12",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"11/29",
+    "RUNWAY_":"11",
+    "LineID":"W1211/29",
+    "NAME":"Lost River Resort",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Mazama_LostRiverResort.htm",
+    "GlobalID":"{FA2ACDC1-9C33-4131-8230-1DC5E3DCC3E9}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.07889,48.97972,10 ]
+    },
+    "properties": {
+    "X":-123.079198049409,
+    "Y":48.9805667679796,
+    "OBJECTID":125,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Point Roberts",
+    "ID":"1RL",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"1RL16/34",
+    "NAME":"Point Roberts Airpark",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/PointRoberts_PointRobertsAirpark.htm",
+    "GlobalID":"{FD6ECEC5-5D08-46FC-BAE9-6FFA25407D39}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.7332,47.6567,525 ]
+    },
+    "properties": {
+    "X":-122.732441160137,
+    "Y":47.6599992741408,
+    "OBJECTID":126,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Silverdale",
+    "ID":"8W5",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"17/35",
+    "RUNWAY_":"17",
+    "LineID":"8W517/35",
+    "NAME":"Apex Airpark",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Silverdale_Apex.htm",
+    "GlobalID":"{6E17BCEB-AED1-4FAB-A276-20FB7FAC7764}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.45974,47.21617,1693 ]
+    },
+    "properties": {
+    "X":-121.459756274107,
+    "Y":47.2161759826199,
+    "OBJECTID":127,
+    "OWNERSHIP":"State",
+    "ASSOCIATED":"Lester",
+    "ID":"15S",
+    "STATE":"",
+    "FAA_ARC":" ",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"05/23",
+    "RUNWAY_":"05",
+    "LineID":"15S05/23",
+    "NAME":"Lester State",
+    "FAA_CLASS":"GA",
+    "URL":"",
+    "GlobalID":"{81E0E724-16EC-46CF-ABAF-CAD622E2AD71}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.371083,47.070389,380 ]
+    },
+    "properties": {
+    "X":-122.370867202039,
+    "Y":47.0727526633637,
+    "OBJECTID":128,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Spanaway",
+    "ID":"3B8",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"16",
+    "LineID":"3B816/34",
+    "NAME":"Shady Acres",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Spanaway_ShadyAcres.htm",
+    "GlobalID":"{6B7A35A8-6F1A-4495-BC08-CE04CDDB7DDD}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.10413,47.41639,1440 ]
+    },
+    "properties": {
+    "X":-119.114294001195,
+    "Y":47.4206965699598,
+    "OBJECTID":129,
+    "OWNERSHIP":"City",
+    "ASSOCIATED":"Wilson Creek",
+    "ID":"5W1",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"10/28",
+    "RUNWAY_":"01",
+    "LineID":"5W110/28",
+    "NAME":"Wilson Creek",
+    "FAA_CLASS":"GA",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/WilsonCreek_Wilson+Creek.htm",
+    "GlobalID":"{92A244A0-5693-4300-8006-E4DB3075BF83}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.33861,47.62889,14 ]
+    },
+    "properties": {
+    "X":-122.337937733363,
+    "Y":47.6287912989598,
+    "OBJECTID":130,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Seattle",
+    "ID":"W55",
+    "STATE":"",
+    "FAA_ARC":"NA",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"16/34",
+    "RUNWAY_":"WATER",
+    "LineID":"W5516/34",
+    "NAME":"Kenmore Air Harbor Sea Plane Base",
+    "FAA_CLASS":"SPB",
+    "URL":"http://www.wsdot.wa.gov/aviation/AllStateAirports/Seattle_KenmoreAirHarborSPB.htm",
+    "GlobalID":"{23E8B58C-990A-4D58-8385-FFA787C3093C}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.917956,48.516489,0 ]
+    },
+    "properties": {
+    "X":-122.918077607065,
+    "Y":48.5164791656752,
+    "OBJECTID":131,
+    "OWNERSHIP":"Port",
+    "ASSOCIATED":"Lopez",
+    "ID":"81W",
+    "STATE":"",
+    "FAA_ARC":"A-I",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"05/23",
+    "RUNWAY_":"WATER",
+    "LineID":"81W05/23",
+    "NAME":"Fishermans Bay",
+    "FAA_CLASS":"GA",
+    "URL":"",
+    "GlobalID":"{F526ECA0-B40A-4672-9FB2-91D17EE2329A}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3317936,47.6275981,14 ]
+    },
+    "properties": {
+    "X":-122.331808516962,
+    "Y":47.6276037364215,
+    "OBJECTID":132,
+    "OWNERSHIP":"Private",
+    "ASSOCIATED":"Seattle",
+    "ID":"0W0",
+    "STATE":"",
+    "FAA_ARC":"NA",
+    "SYSTEM_PLA":"NonNPIAS",
+    "DESIGNATIO":"18/36",
+    "RUNWAY_":"WATER",
+    "LineID":"0W018/36\n",
+    "NAME":"Seattle Sea Planes Sea Plane Base\n",
+    "FAA_CLASS":"SPB",
+    "URL":"",
+    "GlobalID":"{04D0244F-29DA-473A-9FE4-10BF698451A9}"
+    }
+  }
+]
+}
